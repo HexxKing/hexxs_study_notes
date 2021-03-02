@@ -12,3 +12,8 @@
 
 # 🌟 Python Language 
   - [List Comprehension](./python/list_comprehension.md)
+
+---
+
+# 🌟 Data Structures, Algorithms and Code Challenges
+  - I have a whole [repo](https://github.com/HexxKing/data_structures_and_algorithms) dedicated to this topic. Check out the Table of Contents to filter my notes by catagory.
