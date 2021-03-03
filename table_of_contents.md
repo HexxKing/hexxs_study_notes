@@ -13,7 +13,7 @@
 # 🌟 Python Language 
   - [List Comprehension](./python/list_comprehension.md)
   - [Slicing](./python/slicing.md)
-
+  - [Filter()](./python/filter.md)
 
 ---
 
