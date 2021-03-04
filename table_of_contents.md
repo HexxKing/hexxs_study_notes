@@ -19,3 +19,8 @@
 
 # 🌟 Data Structures, Algorithms and Code Challenges
   - I have a whole [repo](https://github.com/HexxKing/data_structures_and_algorithms) dedicated to this topic. Check out the Table of Contents to filter my notes by catagory.
+
+---
+
+# 🌟 Data Science and Machine Learning
+  - [Titanic - Machine Learning from Disaster](./data_science_and_machine_learning/titanic.ipynb)
