@@ -15,9 +15,6 @@
   - [Slicing](./python/slicing.md)
   - [Filter()](./python/filter.md)
 
-
-
-
 ---
 
 # 🌟 Data Structures, Algorithms and Code Challenges
