@@ -21,7 +21,6 @@
   - [Titanic - Machine Learning from Disaster](./data_science_and_machine_learning/titanic.ipynb)
   - [Getting Started on Kaggle](./data_science_and_machine_learning/getting_started_kaggle.md)
 
-
 ---
 
 # 🌟 Data Structures, Algorithms and Code Challenges
