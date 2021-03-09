@@ -2,7 +2,7 @@
 
 ---
 
-# ✍️ Notes on Machine Learning
+# ✍️ Notes from the Intro to Machine Learning Course on Kaggle
 
 - [How Models Work](https://www.youtube.com/watch?v=qsH2ItlSqnU&list=PLqFaTIg4myu9-T-fat2zjC5HmTpSybNfa&index=2&ab_channel=Kaggle)
   - Key Points :
@@ -59,8 +59,24 @@
     - We can select our features using a column list
     - We can view the first five rows of our data using the `head()` function
 
-
+- [Model Validation](https://www.youtube.com/watch?v=ZiKrbm-haoA&list=PLqFaTIg4myu9-T-fat2zjC5HmTpSybNfa&index=5&ab_channel=Kaggle)
+  - Key Points : 
+    - Model validation asks the question, "Is our model any good? Does it predict what we are trying to accurately predict?"
+    - Validation data is a small subset of data from the training data that is set aside to test the model on.
+    - In order to create a validation set, seperate prediction target and the features into 2 additional catagories so we end up with 4 subsets. Each subset is determined randomly.
+      - `train_X, val_X, train_y, val_y = train_test_split(X, y, random_state = 0)`
+        - random_state = supplying a number to random_state guarantees that we get the same split every time we run this script. If you change this number from lesson to lesson, you will get different answers. 
+      - prediction target training set
+      - prediction target validation set
+      - feature training set
+      - feature validation set
+    - MAE or Mean Absolute Error = in order to evaluate how well the model predicts
+  - Recap : 
+    - There are mnay metrics for summarizing model quality
+    - We learned how to use the Mean Absolute Error, or MAE, to evaluate model quality
+    - We can calculate the MAE using the `mean_absolute_error()` function from the scikit-learn.metrics module
+    - We can withold data from our model and use it to test our model's accuracy -  this is referred to as validation data.
 
 ---
-## 📚 Resources Used in Researching Machine Learning
-- [Learn With Me: Intro to Machine Learning](https://www.youtube.com/playlist?list=PLqFaTIg4myu9-T-fat2zjC5HmTpSybNfa)
+## 📚 Resources Used in Researching These Notes
+- [Learn With Me: Intro to Machine Learning Playlist](https://www.youtube.com/playlist?list=PLqFaTIg4myu9-T-fat2zjC5HmTpSybNfa)

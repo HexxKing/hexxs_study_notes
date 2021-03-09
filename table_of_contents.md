@@ -17,10 +17,10 @@
 
 ---
 
-# 🌟 Data Science and Machine Learning
-  - [Titanic - Machine Learning from Disaster](./data_science_and_machine_learning/titanic.ipynb)
-  - [Getting Started on Kaggle](./data_science_and_machine_learning/getting_started_kaggle.md)
-  - [Machine Learning](./data_science_and_machine_learning/machine_learning.md)
+# 🌟 Kaggle
+  - [Titanic - Machine Learning from Disaster](./kaggle/titanic.ipynb)
+  - [Getting Started on Kaggle](./kaggle/getting_started_kaggle.md)
+  - [Into to Machine Learning](./kaggle/intro_to_machine_learning.md)
 
 
 ---
