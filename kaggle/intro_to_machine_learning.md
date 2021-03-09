@@ -77,6 +77,34 @@
     - We can calculate the MAE using the `mean_absolute_error()` function from the scikit-learn.metrics module
     - We can withold data from our model and use it to test our model's accuracy -  this is referred to as validation data.
 
+- [Underfitting and Overfitting](https://www.youtube.com/watch?v=MDiZg88mg9c&list=PLqFaTIg4myu9-T-fat2zjC5HmTpSybNfa&index=6&ab_channel=Kaggle)
+  - Key Points : 
+    - the goal is to find a balance between underfitting and overfitting
+    - modify your model's parameters to help this
+    - overfitting - the model would fit your data almost perfectly, making it challenging to generalize to another dataset. When we overfit, the model doesn't perform very well because the validation data doesn't always look like the training data. As the tree gets more complex, we see the validation error rise and what's happened is the tree has just memorized the specifics in the training set instead of actually learning the general rule.
+    - underfitting - not giving it enough information will cause underfitting and any predictions we try to make will be useless
+    ```
+    # function for calculating the Mean Absolute Error
+
+    def get_mae(max_leaf_nodes, train_X, val_X, train_y, val_y):
+      model = DecisionTreeRegressor(max_leaf_nodes=max_leaf_nodes, random_state=0)
+      model.fit(train_X, train_y)
+      preds_val = model.predict(val_X)
+      mae = mean_absolute_error(val_y, preds_val)
+      return(mae)
+    ```
+    ```
+    # finding the optimal number of leaf nodes
+
+    for max_leaf_nodes in [5, 50, 500, 5000]:
+    my_mae = get_mae(max_leaf_nodes, train_X, val_X, train_y, val_y)
+    print("Max leaf nodes: %d \t\t Mean Absolute Error: %d" %(max_leaf_nodes, my_mae))
+    ```
+  - Recap :
+    - Overfitting is where a model matches the training data almost perfectly, but does poorly with validation or other new data.
+    - Underfitting occurs when a model fails to capture important distinctions and patterns in the data, so it performs poorly - even with training data
+    - We can use the `max_leaf_nodes` argument to control overfitting vs underfitting
+
 ---
 ## 📚 Resources Used in Researching These Notes
 - [Learn With Me: Intro to Machine Learning Playlist](https://www.youtube.com/playlist?list=PLqFaTIg4myu9-T-fat2zjC5HmTpSybNfa)
