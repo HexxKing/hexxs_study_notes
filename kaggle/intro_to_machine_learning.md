@@ -105,6 +105,13 @@
     - Underfitting occurs when a model fails to capture important distinctions and patterns in the data, so it performs poorly - even with training data
     - We can use the `max_leaf_nodes` argument to control overfitting vs underfitting
 
+- [Random Forests](https://www.youtube.com/watch?v=EE2QmzFI5XM&list=PLqFaTIg4myu9-T-fat2zjC5HmTpSybNfa&index=7&ab_channel=Kaggle)
+  - Key Points : 
+    - If you want to increase the predicition accuracy of your model, we can use Random Forests. Instead of taking all of our features and combining them into one tree, Random Forests is going to use thousands of trees. It's going to randomly select features or variables it's going to pull into a given tree, and it's going to take of these trees with all of their random variable selection and it's going to average it out together in order to give us our final model and give us a higher prediction accuracy. 
+    - There is often a trade off between prediction accuracy and model interpretability.
+    - 
+  - Recap : 
+
 ---
 ## 📚 Resources Used in Researching These Notes
 - [Learn With Me: Intro to Machine Learning Playlist](https://www.youtube.com/playlist?list=PLqFaTIg4myu9-T-fat2zjC5HmTpSybNfa)
