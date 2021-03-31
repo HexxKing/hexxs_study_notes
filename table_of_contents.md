@@ -27,3 +27,34 @@
 
 # 🌟 Data Structures, Algorithms and Code Challenges
   - I have a whole [repo](https://github.com/HexxKing/data_structures_and_algorithms) dedicated to this topic. Check out the Table of Contents to filter my notes by catagory.
+
+---
+
+# 🌟 React & Bootstrap
+  - [Tutorial: Intro to React](./react/tutorial_intro.md)
+  - [Introducing JSX](./react/intro_jsx.md)
+  - [Rendering Elements](./react/rendering_elements.md)
+  - [Components and Props](./react/components_and_props.md)
+  - [State and Lifecycle](./react/state_and_lifecycle.md)
+  - [Handling Events](./react/handling_events.md)
+  - [Conditional Rendering](./react/conditional_rendering.md)
+  - [Lists and Keys](./react/lists_and_keys.md)
+  - [Forms](./react/forms.md)
+
+---
+
+# 🌟 JavaScript / ES6
+  - [The Spread Operator](./javascript/the_spread_operator.md)
+
+---
+
+# 🌟 Deployment
+  - [Netlify](./deployment/netlify.md)
+
+
+
+
+
+
+
+
