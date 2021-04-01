@@ -40,6 +40,12 @@
   - [Conditional Rendering](./react/conditional_rendering.md)
   - [Lists and Keys](./react/lists_and_keys.md)
   - [Forms](./react/forms.md)
+  - [Lifting State Up](./react/lifting_state_up.md)
+  - [Composition vs Inheritance](./react/composition_vs_inheritance.md)
+  - [Thinking in React](./react/thinking_in_react.md)
+
+
+
 
 ---
 
