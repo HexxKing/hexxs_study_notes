@@ -44,9 +44,6 @@
   - [Composition vs Inheritance](./react/composition_vs_inheritance.md)
   - [Thinking in React](./react/thinking_in_react.md)
 
-
-
-
 ---
 
 # 🌟 JavaScript / ES6
