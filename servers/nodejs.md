@@ -28,6 +28,8 @@
 
 - ### Node Package Manager (npm)
   - In addition to being the package manager for JavaScript, npm is also the world’s largest software registry. 
+  - `node_modules` is where npm saves packages and any libraries that those packages depend on. The `node_modules` folder shouldn’t be checked in to version control, and can, in fact, be re-created at any time by running npm install ($ `npm i`) from within the project’s root.
+  - inside the `package.json` file is all of the project's dependencies which will allow any developer anywhere to clone your project and use npm to install whatever packages it needs to run.
 
 ---
 
