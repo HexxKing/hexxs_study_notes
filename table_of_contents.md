@@ -30,6 +30,11 @@
 
 ---
 
+# 🌟 Microsoft Certificates
+  - [Azure Fundamentals](./microsoft_certs/azure_fundamentals.md)
+
+---
+
 # 🌟 React & Bootstrap
   - [Tutorial: Intro to React](./react/tutorial_intro.md)
   - [Introducing JSX](./react/intro_jsx.md)
