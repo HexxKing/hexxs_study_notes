@@ -48,10 +48,21 @@
       - Azure includes first-class support to build and host web aps and HTTP-based web services. 
       - App Service, Notification Hubs, API Managment, Cognitive Search, Web Apps feature of Azure App Service, Azure SignalR Service
     - Internet of Things
-      - 
+      - The ability for devices to garner and then relay information for data analysis is referred to as IoT. 
+      - Many services can assist and drive end-to-end solutions for IoT on Azure. 
+      - IoT Central, IoT Hub, IoT Edge
     - Big data
+      - Open-source cluster technologies have been developed to deal with large data sets. 
+      - Azure supports a broad range of technologies and services to provide big data and analytic solutions.
+      - Synapse Analytics, HDInsight, Databricks
     - AI
+      - AI, in the context of cloud computing, is based around a broad range of services, the core of which is machine learning. 
+      - Using Machine Learning, computers learn without being explicitly programmed. 
+      - Machine Learning Service, ML Studio
+      - A closely related set of products are the cognitive services. They can be prebuilt APIs in your applications to solve complex problems. 
+        - Vision, Speech, Knowledge mapping, Bing Search, Natural Language Processing
     - DevOps
+      - 
 
 # ✍️ [Notes for Azure Fundamentals - Part 2](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-core-azure-services/)
 
