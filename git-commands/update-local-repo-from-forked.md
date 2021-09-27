@@ -15,7 +15,7 @@
   - `$ git remote -v`
 
 
-4. Fetch the changes from the upstream url:
+4. Fetch the changes from the upstream remote:
   - `$ git fetch upstream`
 
 
