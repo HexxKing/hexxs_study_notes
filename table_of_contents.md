@@ -31,7 +31,6 @@
 ---
 
 # 🌟 React & Bootstrap
-  - [Tutorial: Intro to React](./react/tutorial_intro.md)
   - [Introducing JSX](./react/intro_jsx.md)
   - [Rendering Elements](./react/rendering_elements.md)
   - [Components and Props](./react/components_and_props.md)
