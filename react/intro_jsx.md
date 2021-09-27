@@ -3,7 +3,10 @@
 ---
 
 # ✍️ Notes for "Introducing JSX"
-- notes coming...
+What is JSX? 
+  - JSX = JavaScript XML 
+  - Instead of putting JavaScript into HTML, JSX allows us to put HTML into JavaScript.
+  - It is a JavaScript syntax extension that allows us to write HTML directly into React. 
 
 ---
 

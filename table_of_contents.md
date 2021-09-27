@@ -31,7 +31,6 @@
 ---
 
 # 🌟 React & Bootstrap
-  - [Tutorial: Intro to React](./react/tutorial_intro.md)
   - [Introducing JSX](./react/intro_jsx.md)
   - [Rendering Elements](./react/rendering_elements.md)
   - [Components and Props](./react/components_and_props.md)
@@ -54,7 +53,8 @@
 # 🌟 Deployment
   - [Netlify](./deployment/netlify.md)
 
-
+# 🌟 Git Commands
+  - [How to update a local repo with new changes made to a forked repo on GitHub?](./git-commands/update-local-repo-from-forked.md)
 
 
 
