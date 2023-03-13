@@ -18,7 +18,6 @@
 ---
 
 # 🌟 Kaggle
-  - [Titanic - Machine Learning from Disaster](./kaggle/titanic.ipynb)
   - [Getting Started on Kaggle](./kaggle/getting_started_kaggle.md)
   - [Into to Machine Learning](./kaggle/intro_to_machine_learning.md)
 
@@ -30,34 +29,5 @@
 
 ---
 
-# 🌟 React & Bootstrap
-  - [Introducing JSX](./react/intro_jsx.md)
-  - [Rendering Elements](./react/rendering_elements.md)
-  - [Components and Props](./react/components_and_props.md)
-  - [State and Lifecycle](./react/state_and_lifecycle.md)
-  - [Handling Events](./react/handling_events.md)
-  - [Conditional Rendering](./react/conditional_rendering.md)
-  - [Lists and Keys](./react/lists_and_keys.md)
-  - [Forms](./react/forms.md)
-  - [Lifting State Up](./react/lifting_state_up.md)
-  - [Composition vs Inheritance](./react/composition_vs_inheritance.md)
-  - [Thinking in React](./react/thinking_in_react.md)
-
----
-
-# 🌟 JavaScript / ES6
-  - [The Spread Operator](./javascript/the_spread_operator.md)
-
----
-
-# 🌟 Deployment
-  - [Netlify](./deployment/netlify.md)
-
 # 🌟 Git Commands
   - [How to update a local repo with new changes made to a forked repo on GitHub?](./git-commands/update-local-repo-from-forked.md)
-
-
-
-
-
-
