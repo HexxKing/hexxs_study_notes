@@ -1,24 +1,51 @@
 ![header img](./assets/header.png)
 
-<h2 align="center"><img src="./assets/thankyou.gif" width="40px"> Thanks for visiting my Study Notes Repo! <img src="./assets/thankyou.gif" width="40px"></h2>
+### Explore my GitHub repository — a compilation of concise, practical study notes spanning multiple topics from my career. 
 
-<p align="center">
-<img src="https://visitor-badge.glitch.me/badge?page_id=HexxKing/study_notes" width="100px">
-</p>
+### These notes cover a range of subjects, including programming languages, data structures and algorithms, and other various domains. 
+
+### They encapsulate my continuous learning and expertise in different fields within the tech industry, serving as a central hub for my knowledge.
 
 ---
 
-# Have you ever been working on a project and thought to yourself, "I should write this down somewhere so I can remember it for next time"? Yeah, me too. So I decided to collect all of those thoughts in a repo. 
+![table of contents img](./assets/tableofcontents.png)
 
-# Check out the [Table of Contents](./table_of_contents.md) I created for easy review.
+---
 
-<p align="center">
-<!-- I have a theory that GitHub does not support the ability to open a link in a new tab. I could only find evidence that it is not possible. -->
-<a href="https://www.linkedin.com/in/hexx-king/" target="_blank" rel="noopener noreferrer"><img height="38" src="./assets/linkedin.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/hexx_king" target="_blank" rel="noopener noreferrer"><img height="38" src="./assets/twitter.png"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/hexxking13/" target="_blank" rel="noopener noreferrer"><img height="38" src="./assets/facebook.png"></a>&nbsp;&nbsp;
-<a href="mailto:hexxking13@gmail.com" target="_blank" rel="noopener noreferrer"><img height="35" src="./assets/gmail.png"></a>&nbsp;&nbsp;
-<a href="https://dev.to/hexxking" target="_blank" rel="noopener noreferrer"><img height="35" src="./assets/dev.png"></a>&nbsp;&nbsp;
-</p>
+# 🌟 Data Structures, Algorithms and Code Challenges
+  - I have a whole [repo](https://github.com/HexxKing/data_structures_and_algorithms) dedicated to this topic. Check out the Table of Contents to filter my notes by catagory.
 
-## Wanna discuss a few topics? Teach me something new? Feel free to contact me through any of the venues listed above! 
+---
+
+# 🌟 Git Commands
+  - [How to update a local repo with new changes made to a forked repo on GitHub?](./git-commands/update-local-repo-from-forked.md)
+
+---
+
+# 🌟 IT & Ops
+  - CompTIA A+
+    - [Laptop Hardware](./it_and_ops.md/laptop_hardware.md)
+
+---
+
+# 🌟 Networking
+  - [IP Address Conversion to Binary](./networking/IP_address_conversion_to_binary.md)
+
+---
+
+# 🌟 Javascript
+  - [Node.js](./javascript/node_js.md)
+
+---
+
+# 🌟 Python 
+  - [List Comprehension](./python/list_comprehension.md)
+  - [Slicing](./python/slicing.md)
+  - [Filter()](./python/filter.md)
+
+---
+
+# 🌟 Kaggle
+  - [Getting Started on Kaggle](./kaggle/getting_started_kaggle.md)
+  - [Into to Machine Learning](./kaggle/intro_to_machine_learning.md)
+
