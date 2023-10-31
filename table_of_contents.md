@@ -4,10 +4,6 @@
 
 <h2 align="center"> This Table of Contents is meant to help navigate through my study notes.</h2>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=HexxKing/study_notes" width="130px">
-</p>
-
 ---
 
 # 🌟 Data Structures, Algorithms and Code Challenges
