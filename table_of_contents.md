@@ -5,22 +5,8 @@
 <h2 align="center"> This Table of Contents is meant to help navigate through my study notes.</h2>
 
 <p align="center">
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/HexxKing/study_notes?color=blueviolet&style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=hexxking" width="130px">
 </p>
-
----
-
-# 🌟 Python Language 
-  - [List Comprehension](./python/list_comprehension.md)
-  - [Slicing](./python/slicing.md)
-  - [Filter()](./python/filter.md)
-
----
-
-# 🌟 Kaggle
-  - [Getting Started on Kaggle](./kaggle/getting_started_kaggle.md)
-  - [Into to Machine Learning](./kaggle/intro_to_machine_learning.md)
-
 
 ---
 
@@ -31,3 +17,28 @@
 
 # 🌟 Git Commands
   - [How to update a local repo with new changes made to a forked repo on GitHub?](./git-commands/update-local-repo-from-forked.md)
+
+---
+
+# 🌟 IT & Ops
+  - CompTIA A+
+    - [Laptop Hardware](./it_and_ops.md/laptop_hardware.md)
+
+---
+
+# 🌟 Networking
+  - [IP Address Conversion to Binary](./networking/IP_address_conversion_to_binary.md)
+
+---
+
+# 🌟 Python 
+  - [List Comprehension](./python/list_comprehension.md)
+  - [Slicing](./python/slicing.md)
+  - [Filter()](./python/filter.md)
+
+---
+
+# 🌟 Kaggle
+  - [Getting Started on Kaggle](./kaggle/getting_started_kaggle.md)
+  - [Into to Machine Learning](./kaggle/intro_to_machine_learning.md)
+
