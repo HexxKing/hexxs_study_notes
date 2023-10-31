@@ -18,9 +18,10 @@
 
 ---
 
-# 🌟 IT & Ops
+# 🌟 Ops & IT
   - CompTIA A+
     - [Laptop Hardware](./it_and_ops.md/laptop_hardware.md)
+    - [Laptop Displays](./it_and_ops.md/laptop_displays.md)
 
 ---
 
