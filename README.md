@@ -1,10 +1,10 @@
 ![header img](./assets/header.png)
 
-### Explore my GitHub repository — a compilation of concise, practical study notes spanning multiple topics from my career. 
+**Explore my GitHub repository — a compilation of concise, practical study notes spanning multiple topics from my career.** 
 
-### These notes cover a range of subjects, including programming languages, data structures and algorithms, and other various domains. 
+**These notes cover a range of subjects, including programming languages, data structures and algorithms, and other various domains.** 
 
-### They encapsulate my continuous learning and expertise in different fields within the tech industry, serving as a central hub for my knowledge.
+**They encapsulate my continuous learning and expertise in different fields within the tech industry, serving as a central hub for my knowledge.**
 
 ---
 
