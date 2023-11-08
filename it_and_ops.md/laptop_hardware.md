@@ -1,4 +1,4 @@
-# ✨ Laptop Hardware
+# 💻 Laptop Hardware 💻
 
 ## ✨ Laptop Repairs and Manufacturers
 1. **Why do laptops present a challenge when it comes to internal repairs?**
