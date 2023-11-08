@@ -1,5 +1,40 @@
 # 💻 Laptop Hardware 💻
 
+## ✨ Vocabulary
+
+- **Troubleshooting:** The process of identifying and resolving problems within a system or device.
+- **Form Factor:** The physical design and layout of a device, especially in terms of its size, shape, and functionality.
+- **Modular:** Components that are designed to be easily detached or replaced as independent units.
+- **Manufacturer:** Companies that produce or create goods or products.
+- **Service Information:** Details provided by manufacturers about repairing and maintaining components or systems.
+- **Mobile Devices:** Portable computing devices designed for on-the-go use.
+- **Batteries:** Devices that store and provide power for laptops and other electronic devices.
+- **Lithium-ion:** A type of rechargeable battery technology commonly used in modern devices.
+- **Keyboard:** The primary input device of a laptop, used for typing and interacting with the operating system.
+- **SO-DIMM (Small Outline Dual In-Line Memory Module):** Memory modules used to expand a computer's RAM in a compact form, commonly used in laptops.
+- **Storage:** The space used for saving and retrieving files and data on a device.
+- **Hard Drives:** Traditional storage devices that use spinning platters to store data magnetically.
+- **Solid State Drives (SSDs):** Storage devices without moving parts that offer faster data access than traditional hard drives.
+- **M.2 Interface:** A form of SSD storage that's smaller and more efficient in space and speed compared to traditional SSDs.
+- **Data Transfer:** The process of moving information between devices or systems.
+- **Authentication:** The process of confirming the identity of a user to gain access to a system or device.
+- **802.11:** The standard for wireless networking, also known as Wi-Fi.
+- **Bluetooth:** Wireless technology enabling data transmission between devices over short distances.
+- **Near-Field Communication (NFC):** Technology for wireless communication within close proximity without physical contact.
+- **Biometrics:** Using unique physical traits, like facial recognition or fingerprints, for authentication.
+- **Operating System:** The software that manages computer hardware and provides services for other software applications.
+- **Image/Cloning:** Creating an exact copy or duplicate of a hard drive onto another storage device.
+- **Mini PCI/Mini PCI Express:** Interface slots in laptops for adding wireless connectivity cards or other expansion cards.
+- **Personal Area Network (PAN):** A network for connecting devices over a short range, like Bluetooth devices.
+- **Wide Area Network (WAN):** A network that covers a larger geographical area.
+- **User Settings:** Customizable settings and preferences for individual users on a computer.
+- **Windows Hello:** A feature in Windows operating systems providing secure login options like face recognition or fingerprint scanning.
+- **Sector-by-sector copy:** Creating an exact duplicate of one drive onto another, copying all data including the drive structure.
+- **Sector:** The smallest addressable unit on a hard drive, typically 512 bytes.
+- **Antenna Wires:** Cables used to connect antennas to wireless cards or devices for signal transmission.
+- **Clone Image File:** A file containing an exact copy of the content of a storage device.
+- **Sector-by-Sector Copy:** Creating an exact duplicate of one drive onto another, copying all data, including the drive structure.
+
 ## ✨ Laptop Repairs and Manufacturers
 1. **Why do laptops present a challenge when it comes to internal repairs?**
     - Laptops have unique form factors, making internal repairs challenging due to their compact and intricate designs.
