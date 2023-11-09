@@ -59,7 +59,7 @@
     - In addition to the three main LCD technologies, there are also a number of hybrid technologies that offer a combination of the features of TN, IPS, and VA LCDs. For example, super in-plane switching (S-IPS) is a type of IPS LCD that offers faster response times and refresh rates than traditional IPS LCDs.
     - Advanced fringe field switching (AFFS) is another type of hybrid LCD technology that offers wide viewing angles, good color accuracy, and fast response times. AFFS LCDs are often used in high-end TVs and monitors.
 1. What sets an OLED display apart from traditional LCDs?
-    <!-- - OLED (Organic Light Emitting Diode) displays don't require a backlight and use organic material to emit light, making them thinner and lighter with superior color representation. -->
+    - OLED (Organic Light Emitting Diode) displays don't require a backlight and use organic material to emit light, making them thinner and lighter with superior color representation.
 
 ## ✨ Display Components and Backlights
 
