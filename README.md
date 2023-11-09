@@ -9,7 +9,8 @@
 ---
 
 # 🌟 Data Structures, Algorithms and Code Challenges
-  - I have a whole [repo](https://github.com/HexxKing/data_structures_and_algorithms) dedicated to this topic. Check out the Table of Contents to filter my notes by catagory.
+  - [Hexx's DSA Repo on GitHub](https://github.com/HexxKing/hexxs_data_structures_and_algorithms)
+  - [How to Solve a Code Challenge](./dsa/how_solve_a_code_challenge.md)
 
 ---
 
