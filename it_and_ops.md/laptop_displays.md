@@ -46,15 +46,15 @@
     - IPS (In-plane switching) is a more recent LCD technology that offers wide viewing angles and excellent color accuracy. However, IPS LCDs have slower response times and refresh rates than TN LCDs. IPS LCDs are a good choice for applications where image quality is more important than speed, such as photo editing and video editing.
     - VA (Vertical alignment) is a compromise between TN and IPS LCDs. It offers wide viewing angles and good color accuracy, but its response times and refresh rates are slower than TN LCDs. VA LCDs are a good choice for all-around use, and they are often used in TVs and monitors.
 
-    | Feature | TN | IPS | VA |
-    |---|---|---|---|
-    | Viewing angles | Narrow | Wide | Wide |
-    | Color accuracy | Good | Excellent | Excellent |
-    | Response time | Fast | Slow | Slow |
-    | Refresh rate | High | Medium | Medium |
-    | Contrast ratio | Low | High | Very high |
-    | Power consumption | Low | Medium | High |
-    | Cost | Low | Medium | High |
+        | Feature | TN | IPS | VA |
+        |---|---|---|---|
+        | Viewing angles | Narrow | Wide | Wide |
+        | Color accuracy | Good | Excellent | Excellent |
+        | Response time | Fast | Slow | Slow |
+        | Refresh rate | High | Medium | Medium |
+        | Contrast ratio | Low | High | Very high |
+        | Power consumption | Low | Medium | High |
+        | Cost | Low | Medium | High |
 
     - In addition to the three main LCD technologies, there are also a number of hybrid technologies that offer a combination of the features of TN, IPS, and VA LCDs. For example, super in-plane switching (S-IPS) is a type of IPS LCD that offers faster response times and refresh rates than traditional IPS LCDs.
     - Advanced fringe field switching (AFFS) is another type of hybrid LCD technology that offers wide viewing angles, good color accuracy, and fast response times. AFFS LCDs are often used in high-end TVs and monitors.
