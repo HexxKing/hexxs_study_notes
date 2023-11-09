@@ -1,3 +1,7 @@
+<h3 align="center"><a href="https://github.com/HexxKing/hexxs_study_notes#-1">👈 Back to Table of Contents</a></h3>
+
+---
+
 # How to Solve a Code Challenge:
 
 1. Research that week's method or concept.
