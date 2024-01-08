@@ -244,6 +244,24 @@ Formula: `m = (y₂ - y₁) / (x₂ - x₁)`
   - Because the input value is mapped to more than one output value, a vertical line does not represent a function.
 
 #### Determining Whether Lines are Parallel or Perpendicular
+
+- **Parallel lines** will never intersect. They have exactly the same steepness, which means their slopes are identical. The only difference between the two lines is the y-intercept. If we shifted one line vertically toward the y-intercept of the other, they would become the same line.
+  - We can determine from their equations whether two lines are parallel by comparing their slopes. 
+  - If the slopes are the same and the y-intercepts are different, the lines are parallel. 
+  - If the slopes are different, the lines are not parallel.
+  - `𝑓(𝑥)=𝑚1𝑥+𝑏1` and `𝑔(𝑥)=𝑚2𝑥+𝑏2` are parallel if `𝑚1=𝑚2`
+- **Perpendicular lines** do intersect. 
+  - Their intersection forms a right, or 90-degree, angle.
+  - Perpendicular lines have special relationships between their slopes. 
+    - Specifically, the slope of one line is the negative reciprocal of the slope of the other line.
+    - This means that if we multiply the two slopes together, we get -1.
+    - `𝑓(𝑥)=𝑚1𝑥+𝑏1` and `𝑔(𝑥)=𝑚2𝑥+𝑏2` are perpendicular if `𝑚1𝑚2=−1`, and so `𝑚2=−1𝑚1`.
+  - **Negative reciprocal**: The reciprocal of a number is its "flip". 
+    - For example, the reciprocal of 2 is 1/2, and the reciprocal of -3 is 1/-3. 
+    - The negative reciprocal of a number is its reciprocal multiplied by -1. 
+    - So, the negative reciprocal of 2 is -1/2.
+- **Coincident lines** are the same line. If and only if `𝑏1=𝑏2` and `𝑚1=𝑚2`, we say the lines coincide. 
+
 #### Writing the Equation of a Line Parallel or Perpendicular to a Given Line
 #### Solving a System of Linear Equations Using a Graph
 
