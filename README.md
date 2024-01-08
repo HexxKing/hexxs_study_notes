@@ -8,6 +8,11 @@
 
 ---
 
+## 🌟 Analytical Foundation for Calculus (MAT 115)
+  - [Lines, Systems, and Piece-wise Functions](./analytical_foundation_cal/lines_systems_and_piece-wise_functions.md)
+
+---
+
 ## 🌟 Data Structures, Algorithms and Code Challenges
   - [Hexx's DSA Repo on GitHub](https://github.com/HexxKing/hexxs_data_structures_and_algorithms)
   - [How to Solve a Code Challenge](./dsa/how_solve_a_code_challenge.md)
