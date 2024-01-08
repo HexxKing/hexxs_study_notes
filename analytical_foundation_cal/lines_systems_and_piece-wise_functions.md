@@ -234,6 +234,15 @@ Formula: `m = (y₂ - y₁) / (x₂ - x₁)`
 ![solution 1](./assets/solution1.png)
 
 #### Describing Horizontal and Vertical Lines
+
+- A horizontal line indicates a constant output, or y-value.
+  - A horizontal line is a line defined by an equation in the form `𝑓(𝑥)=𝑏`.
+- If we use `𝑚=0`in the equation `𝑓(𝑥)=𝑚𝑥+𝑏`, the equation simplifies to `𝑓(𝑥)=𝑏`. 
+  - In other words, the value of the function is a constant.
+- A vertical line indicates a constant input, or x-value.
+  - A vertical line is a line defined by an equation in the form `𝑥=𝑎`.
+  - Because the input value is mapped to more than one output value, a vertical line does not represent a function.
+
 #### Determining Whether Lines are Parallel or Perpendicular
 #### Writing the Equation of a Line Parallel or Perpendicular to a Given Line
 #### Solving a System of Linear Equations Using a Graph
