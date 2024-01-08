@@ -186,18 +186,39 @@ Formula: `m = (y₂ - y₁) / (x₂ - x₁)`
 
   ![graph2](./assets/graph2.png)
 
+#### Graphing a Function Using Transformations
 
+- Another option for graphing is to use transformations of the identity function `𝑓(𝑥)=𝑥`. 
+  - A function may be transformed by a shift up, down, left, or right. 
+  - A function may also be transformed using a reflection, stretch, or compression.
 
+##### Vertical Stretch or Compression
 
+- In the equation `𝑓(𝑥)=𝑚𝑥`, the `𝑚` is acting as the vertical stretch or compression of the identity function.
+- the larger the absolute value of `𝑚`, the steeper the slope.
 
+![vertical stretch](./assets/vertical_stretch.png)
 
+##### Vertical Shift
 
+- In `𝑓(𝑥)=𝑚𝑥+𝑏`, the `𝑏` acts as the vertical shift, moving the graph up and down without affecting the slope of the line.
 
+![vertical shift](./assets/vertical_shift.png)
 
+**HOW TO:** Given the equation of a linear function, use transformations to graph the linear function in the form `𝑓(𝑥)=𝑚𝑥+𝑏`.
 
+1. Graph `𝑓(𝑥)=𝑥`.
+2. Vertically stretch or compress the graph by a factor `𝑚`.
+3. Shift the graph up or down `𝑏` units.
 
+![graph 3](./assets/graph3.png)
 
-
+#### Writing the Equation for a Function from the Graph of a Line
+#### Finding the x-intercept of a Line
+#### Describing Horizontal and Vertical Lines
+#### Determining Whether Lines are Parallel or Perpendicular
+#### Writing the Equation of a Line Parallel or Perpendicular to a Given Line
+#### Solving a System of Linear Equations Using a Graph
 
 ### [Solving Systems of Linears](https://openstax.org/books/precalculus-2e/pages/9-1-systems-of-linear-equations-two-variables)
 
