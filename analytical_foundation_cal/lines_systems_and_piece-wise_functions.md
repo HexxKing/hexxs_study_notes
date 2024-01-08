@@ -133,7 +133,7 @@
   
   **Practice:** Graph `𝑓(𝑥)=−34𝑥+6` by plotting points.
 
-  ![graph1](./assets/graph1.pdf)
+![graph1](./assets/graph1.png)
 
 
 
