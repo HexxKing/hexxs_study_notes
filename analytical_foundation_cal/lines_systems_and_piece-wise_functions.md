@@ -114,6 +114,37 @@
 
 ### [Graphing Lines](https://openstax.org/books/precalculus-2e/pages/2-2-graphs-of-linear-functions)
 
+#### Graph linear functions
+  - The graph of a linear function is a straight line.
+  - There are three basic methods of graphing linear functions. 
+    - By plotting points and then drawing a line through the points. 
+    - By using the y-intercept and slope. 
+    - By using transformations of the identity function `𝑓(𝑥)=𝑥`.
+  - To find points of a function, we can choose input values, evaluate the function at these input values, and calculate output values. The input values and corresponding output values form coordinate pairs. We then plot the coordinate pairs on a grid. 
+  - Choosing three points is often advisable because if all three points do not fall on the same line, we know we made an error.
+  
+  **HOW TO:** Given a linear function, graph by plotting points.
+
+    1. Choose a minimum of two input values.
+    2. Evaluate the function at each input value.
+    3. Use the resulting output values to identify coordinate pairs.
+    4. Plot the coordinate pairs on a grid.
+    5. Draw a line through the points.
+  
+  **Practice:** Graph `𝑓(𝑥)=−34𝑥+6` by plotting points.
+
+  ![graph1](./assets/graph1.pdf)
+
+
+
+
+
+
+#### Write the equation for a linear function from the graph of a line.
+#### Given the equations of two lines, determine whether their graphs are parallel or perpendicular.
+#### Write the equation of a line parallel or perpendicular to a given line.
+#### Solve a system of linear equations.
+
 ### [Solving Systems of Linears](https://openstax.org/books/precalculus-2e/pages/9-1-systems-of-linear-equations-two-variables)
 
 ### [Piece-Wise Functions](https://openstax.org/books/precalculus-2e/pages/1-2-domain-and-range?query=piecewise%20functions&target=%7B%22index%22%3A0%2C%22type%22%3A%22search%22%7D#fs-id1165134042316)
