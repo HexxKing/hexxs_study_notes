@@ -214,7 +214,25 @@ Formula: `m = (y₂ - y₁) / (x₂ - x₁)`
 ![graph 3](./assets/graph3.png)
 
 #### Writing the Equation for a Function from the Graph of a Line
+
+**HOW TO:** Given a graph of linear function, find the equation to describe the function.
+
+1. Identify the y-intercept of an equation.
+2. Choose two points to determine the slope.
+3. Substitute the y-intercept and slope into the slope-intercept form of a line.
+
 #### Finding the x-intercept of a Line
+
+- To find the x-intercept, set a function `𝑓(𝑥)` equal to zero and solve for the value of `𝑥`.
+- The x-intercept of the function is value of `𝑥` when `𝑓(𝑥)=0`. It can be solved by the equation `0=𝑚𝑥+𝑏`.
+- **Q:** Do all linear functions have x-intercepts?
+  - No. However, linear functions of the form `𝑦=𝑐`,where `𝑐`is a nonzero real number are the only examples of linear functions with no x-intercept. For example, `𝑦=5`
+  is a horizontal line 5 units above the x-axis. This function has no x-intercepts.
+
+**Practice:** Find the x-intercept of `𝑓(𝑥)=1/4𝑥−4`.
+
+![solution 1](./assets/solution1.png)
+
 #### Describing Horizontal and Vertical Lines
 #### Determining Whether Lines are Parallel or Perpendicular
 #### Writing the Equation of a Line Parallel or Perpendicular to a Given Line
