@@ -114,7 +114,7 @@
 
 ### [Graphing Lines](https://openstax.org/books/precalculus-2e/pages/2-2-graphs-of-linear-functions)
 
-#### Graph linear functions
+#### Graphing Linear Functions
   - The graph of a linear function is a straight line.
   - There are three basic methods of graphing linear functions. 
     - By plotting points and then drawing a line through the points. 
@@ -133,17 +133,71 @@
   
   **Practice:** Graph `𝑓(𝑥)=−34𝑥+6` by plotting points.
 
-![graph1](./assets/graph1.png)
+  ![graph1](./assets/graph1.png)
+
+#### Graphing a Function Using y-intercept and Slope
+
+- Another way to graph linear functions is by using specific characteristics of the function rather than plotting points. The first characteristic is its y-intercept, which is the point at which the input value is zero. 
+  - To find the y-intercept, we can set `𝑥=0` in the equation.
+  - The y-intercept is the point on the graph when `𝑥=0`.
+- The other characteristic of the linear function is its slope `𝑚`,
+  which is a measure of its steepness.
+    - The slope is the rate of change of the function.
+    - The slope of a function is equal to the ratio of the change in outputs to the change in inputs. 
+    - Another way to think about the slope is by dividing the vertical difference, or rise, by the horizontal difference, or run.
+    - We know that the slope is rise over run, `𝑚=rise/run`.
+      - "rise" = up/down
+      - "run" = left/right
+
+##### Graphical Interpretation of a Linear Function
+
+In the equation `𝑓(𝑥)=𝑚𝑥+𝑏`
+
+- `𝑏` is the y-intercept of the graph and indicates the point (0,𝑏)
+  at which the graph crosses the y-axis.
+- `𝑚`is the slope of the line and indicates the vertical displacement (rise) and horizontal displacement (run) between each successive pair of points.
+
+##### Formula for Slope
+
+- If the slope is positive, the line slants upwards from left to right.
+- If the slope is negative, the line slants downwards from left to right.
+- If the slope is zero, the line is horizontal.
+- A steeper slope (positive or negative) means a sharper line.
+- A less steep slope (positive or negative) means a flatter line.
+
+Formula: `m = (y₂ - y₁) / (x₂ - x₁)`
+
+- `m` is the slope
+- `(x₁, y₁)` and `(x₂, y₂)` are the coordinates of two points on the line
+
+**Q:** Do all linear functions have y-intercepts?
+  - Yes. All linear functions cross the y-axis and therefore have y-intercepts. 
+  - A vertical line parallel to the y-axis does not have a y-intercept, but it is not a function.
+
+**HOW TO:** Given the equation for a linear function, graph the function using the y-intercept and slope.
+
+  1. Evaluate the function at `𝑥=0` to find the y-intercept.
+  2. Identify the slope as the rate of change of the input value.
+  3. Plot the point represented by the y-intercept.
+  4. Use `rise/run` to determine at least two more points on the line.
+  5. Sketch the line that passes through the points.
+
+  **Practice:** Graph `𝑓(𝑥)=−23𝑥+5` using the y-intercept and slope. Then find a point on the graph that has a negative x-value.
+
+  ![graph2](./assets/graph2.png)
 
 
 
 
 
 
-#### Write the equation for a linear function from the graph of a line.
-#### Given the equations of two lines, determine whether their graphs are parallel or perpendicular.
-#### Write the equation of a line parallel or perpendicular to a given line.
-#### Solve a system of linear equations.
+
+
+
+
+
+
+
 
 ### [Solving Systems of Linears](https://openstax.org/books/precalculus-2e/pages/9-1-systems-of-linear-equations-two-variables)
 
