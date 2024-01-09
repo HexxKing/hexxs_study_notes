@@ -263,11 +263,94 @@ Formula: `m = (y₂ - y₁) / (x₂ - x₁)`
 - **Coincident lines** are the same line. If and only if `𝑏1=𝑏2` and `𝑚1=𝑚2`, we say the lines coincide. 
 
 #### Writing the Equation of a Line Parallel or Perpendicular to a Given Line
+
+If we know the equation of a line, we can use what we know about slope to write the equation of a line that is either parallel or perpendicular to the given line.
+
+**Point-Slope Form** emphasizes the relationship between a specific point on the line and its slope. It states that for any line passing through the point `(x_1,y_1)` with slope `m`, the equation can be written as: `y - y_1 = m(x - x_1)`
+  - The left side represents the vertical difference between a point on the line (x,y) and the given point `(x_1,y_1)`.
+  - The right side represents the product of the slope (`m`) and the horizontal difference between the same points.
+  - This essentially states that the change in `y` (rise) is proportional to the change in `x` (run) with a constant factor of the slope.
+
+**Slope-Intercept Form** is more commonly used and highlights the slope and y-intercept of the line. It states that for any line with slope `m` and y-intercept `b`, the equation can be written as: `y = mx + b`
+  - The slope (`m`) determines the "steepness" and direction of the line.
+  - The y-intercept (`b`) is the point where the line crosses the y-axis (when `x = 0`).
+  - This form allows for easy interpretation of the slope and y-intercept directly from the equation.
+
+**Choosing the Right Form**:
+- Any equation in point-slope form can be converted to slope-intercept form by solving for y.
+  - Conversely, any equation in slope-intercept form can be converted to point-slope form by choosing a point on the line.
+- Use point-slope form when you are given a point on the line and its slope and want to find the equation.
+  - Use slope-intercept form when you are given the slope and y-intercept of the line and want to write the equation directly.
+
+##### Writing Equations of Parallel Lines
+
+**HOW TO:** Given the equation of a function and a point through which its graph passes, write the equation of a line parallel to the given line that passes through the given point.
+
+1. Find the slope of the function.
+2. Substitute the given values into either the general point-slope equation or the slope-intercept equation for a line.
+3. Simplify.
+
+##### Writing Equations of Perpendicular Lines
+
+We can use a very similar process to write the equation for a line perpendicular to a given line. Instead of using the same slope, however, we use the negative reciprocal of the given slope. As before, we can narrow down our choices for a particular perpendicular line if we know that it passes through a given point.
+
+**Q:** A horizontal line has a slope of zero and a vertical line has an undefined slope. These two lines are perpendicular, but the product of their slopes is not –1. Doesn’t this fact contradict the definition of perpendicular lines?
+  - No. For two perpendicular linear functions, the product of their slopes is –1. However, a vertical line is not a function so the definition is not contradicted.
+
+**HOW TO:** Given the equation of a function and a point through which its graph passes, write the equation of a line perpendicular to the given line.
+
+1. Find the slope of the function.
+2. Determine the negative reciprocal of the slope.
+3. Substitute the new slope and the values for `𝑥` and `𝑦` from the coordinate pair provided into `𝑔(𝑥)=𝑚𝑥+𝑏`.
+4. Solve for `𝑏`.
+5. Write the equation for the line.
+
+**Practice:** Given the function `ℎ(𝑥)=2𝑥−4`, write an equation for the line passing through `(0,0)` that is:
+  - parallel to `ℎ(𝑥)`
+  - perpendicular to `ℎ(𝑥)`
+
+![solution 2](./assets/solution2.png)
+
+**HOW TO:** Given two points on a line and a third point, write the equation of the perpendicular line that passes through the point.
+
+1. Determine the slope of the line passing through the points.
+2. Find the negative reciprocal of the slope.
+3. Use the slope-intercept form or point-slope form to write the equation by substituting the known values.
+4. Simplify.
+
+**Practice:** A line passes through the points, `(−2,−15)`and `(2,−3)`. Find the equation of a perpendicular line that passes through the point, `(6,4)`.
+
+![solution 3](./assets/solution3.png)
+
 #### Solving a System of Linear Equations Using a Graph
 
 ### [Solving Systems of Linears](https://openstax.org/books/precalculus-2e/pages/9-1-systems-of-linear-equations-two-variables)
 
+#### Introduction to Systems of Equations
+##### TYPES OF LINEAR SYSTEMS
+#### Solving Systems of Equations by Graphing
+#### Solving Systems of Equations by Substitution
+#### Solving Systems of Equations in Two Variables by the Addition Method
+#### Identifying Inconsistent Systems of Equations Containing Two Variables
+#### Expressing the Solution of a System of Dependent Equations Containing Two Variables
+#### Using Systems of Equations to Investigate Profits
+
 ### [Piece-Wise Functions](https://openstax.org/books/precalculus-2e/pages/1-2-domain-and-range?query=piecewise%20functions&target=%7B%22index%22%3A0%2C%22type%22%3A%22search%22%7D#fs-id1165134042316)
+
+#### Finding the Domain of a Function Defined by an Equation
+#### Using Notations to Specify Domain and Range
+##### SET-BUILDER NOTATION AND INTERVAL NOTATION
+#### Finding Domain and Range from Graphs
+#### Finding Domains and Ranges of the Toolkit Functions
+#### Graphing Piecewise-Defined Functions
+
+## Questions
+
+1. How do you pronounce `f(x)`?
+
+    In a formal academic setting:
+      - **"eff of x"**: This is the most formal and precise way to pronounce it, clearly separating the function name ("f") from the variable ("x").
+      - **"function f of x"**: This explicitly highlights the role of "f" as a function applied to the variable "x".
 
 ## Resources
 
