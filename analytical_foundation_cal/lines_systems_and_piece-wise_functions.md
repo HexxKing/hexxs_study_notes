@@ -387,6 +387,17 @@ We can use a very similar process to write the equation for a line perpendicular
 ![solution 4](./assets/solution4.png)
 
 #### Solving Systems of Equations by Graphing
+
+- For a system of linear equations in two variables, we can determine both the type of system and the solution by graphing the system of equations on the same set of axes.
+- **Q:** Can graphing be used if the system is inconsistent or dependent?
+  - Yes, in both cases we can still graph the system to determine the type of system and solution. If the two lines are parallel, the system has no solution and is inconsistent. If the two lines are identical, the system has infinite solutions and is a dependent system.
+
+**Practice:** Solve the following system of equations by graphing.
+  - `2𝑥−5𝑦=−25` 
+  - `−4𝑥+5𝑦=35`
+
+![graph 4](./assets/graph4.png)
+
 #### Solving Systems of Equations by Substitution
 #### Solving Systems of Equations in Two Variables by the Addition Method
 #### Identifying Inconsistent Systems of Equations Containing Two Variables
