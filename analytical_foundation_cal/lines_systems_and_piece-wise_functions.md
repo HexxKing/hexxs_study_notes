@@ -418,6 +418,21 @@ We can use a very similar process to write the equation for a line perpendicular
 ![solution 5](./assets/solution5.png)
 
 #### Solving Systems of Equations in Two Variables by the Addition Method
+
+- In the **addition method**, we add two terms with the same variable, but opposite coefficients, so that the sum is zero. 
+- Of course, not all systems are set up with the two terms of one variable having opposite coefficients. 
+- Often we must adjust one or both of the equations by multiplication so that one variable will be eliminated by addition.
+
+**HOW TO:** Given a system of equations, solve using the addition method.
+
+1. Write both equations with x- and y-variables on the left side of the equal sign and constants on the right.
+2. Write one equation above the other, lining up corresponding variables. 
+  - If one of the variables in the top equation has the opposite coefficient of the same variable in the bottom equation, add the equations together, eliminating one variable. 
+  - If not, use multiplication by a nonzero number so that one of the variables in the top equation has the opposite coefficient of the same variable in the bottom equation, then add the equations to eliminate the variable.
+3. Solve the resulting equation for the remaining variable.
+4. Substitute that value into one of the original equations and solve for the second variable.
+5. Check the solution by substituting the values into the other equation.
+
 #### Identifying Inconsistent Systems of Equations Containing Two Variables
 #### Expressing the Solution of a System of Dependent Equations Containing Two Variables
 #### Using Systems of Equations to Investigate Profits
