@@ -399,6 +399,24 @@ We can use a very similar process to write the equation for a line perpendicular
 ![graph 4](./assets/graph4.png)
 
 #### Solving Systems of Equations by Substitution
+
+- The **substitution method** is where we solve one of the equations for one variable and then substitute the result into the second equation to solve for the second variable.
+- **Q:** Can the substitution method be used to solve any linear system in two variables?
+  - Yes, but the method works best if one of the equations contains a coefficient of 1 or –1 so that we do not have to deal with fractions.
+
+**HOW TO:** Given a system of two equations in two variables, solve using the substitution method.
+
+1. Solve one of the two equations for one of the variables in terms of the other.
+2. Substitute the expression for this variable into the second equation, then solve for the remaining variable.
+3. Substitute that solution into either of the original equations to find the value of the first variable. If possible, write the solution as an ordered pair.
+4. Check the solution in both equations.
+
+**Practice:** Solve the following system of equations by substitution.
+  - `𝑥=𝑦+3`
+  - `4=3𝑥−2𝑦`
+
+![solution 5](./assets/solution5.png)
+
 #### Solving Systems of Equations in Two Variables by the Addition Method
 #### Identifying Inconsistent Systems of Equations Containing Two Variables
 #### Expressing the Solution of a System of Dependent Equations Containing Two Variables
