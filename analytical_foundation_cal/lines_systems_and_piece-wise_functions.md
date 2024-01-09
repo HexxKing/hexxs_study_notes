@@ -361,7 +361,31 @@ We can use a very similar process to write the equation for a line perpendicular
 ### [Solving Systems of Linears](https://openstax.org/books/precalculus-2e/pages/9-1-systems-of-linear-equations-two-variables)
 
 #### Introduction to Systems of Equations
+
+- A **system of linear equations** consists of two or more linear equations made up of two or more variables such that all equations in the system are considered simultaneously.
+- To find the unique solution to a system of linear equations, we must find a numerical value for each variable in the system that will satisfy all equations in the system at the same time.
+  - The solution to a system of linear equations in two variables is any ordered pair that satisfies each equation independently.
+- Some linear systems may not have a solution and others may have an infinite number of solutions. 
+- In order for a linear system to have a unique solution, there must be at least as many equations as there are variables.
+
 ##### TYPES OF LINEAR SYSTEMS
+
+- An **independent system** has exactly one solution pair `(𝑥,𝑦)`. The point where the two lines intersect is the only solution.
+  - A **consistent system** of equations has at least one solution. A **consistent system** is considered to be an **independent system** if it has a single solution.
+- An **inconsistent system** has no solution. The two lines are parallel and will never intersect.
+- A **dependent system** has infinitely many solutions. The lines are **coincident**. They are the same line, so every coordinate pair on the line is a solution to both equations.
+
+**HOW TO:** Given a system of linear equations and an ordered pair, determine whether the ordered pair is a solution.
+
+1. Substitute the ordered pair into each equation in the system.
+2. Determine whether true statements result from the substitution in both equations; if so, the ordered pair is a solution.
+
+**Practice:** Determine whether the ordered pair `(8,5)` is a solution to the following system.
+  - `5𝑥−4𝑦=20` 
+  - `2𝑥+1=3𝑦`
+
+![solution 4](./assets/solution4.png)
+
 #### Solving Systems of Equations by Graphing
 #### Solving Systems of Equations by Substitution
 #### Solving Systems of Equations in Two Variables by the Addition Method
