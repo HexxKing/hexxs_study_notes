@@ -324,6 +324,40 @@ We can use a very similar process to write the equation for a line perpendicular
 
 #### Solving a System of Linear Equations Using a Graph
 
+- A system of linear equations includes two or more linear equations. 
+- The graphs of two lines will intersect at a single point if they are not parallel. 
+- Two parallel lines can also intersect if they are coincident, which means they are the same line and they intersect at every point. 
+- For two lines that are not parallel, the single point of intersection will satisfy both equations and therefore represent the solution to the system.
+- To find this point when the equations are given as functions, we can solve for an input value so that `𝑓(𝑥)=𝑔(𝑥)`.
+  - In other words, we can set the formulas for the lines equal to one another, and solve for the input that satisfies the equation.
+
+**Q:** If we were asked to find the point of intersection of two distinct parallel lines, should something in the solution process alert us to the fact that there are no solutions?
+  - Yes. After setting the two equations equal to one another, the result would be the contradiction “0 = non-zero real number”.
+
+**Identity toolkit function** is a basic function that always returns its input value as its output. It's often denoted as `f(x) = x`.
+  - It acts like a "mirror" for any value you put in, reflecting it back unchanged.
+  - It doesn't change the input, so it's often used in situations where you want to preserve a value or pass it through a process without alteration.
+  - Example:
+    - `f(4) = 4` (The input value 4 is returned as the output value 4)
+    - `f(-2) = -2` (The input value -2 is returned as the output value -2)
+
+
+**Practice:** Look at the graph below and identify the following for the function `𝑗(𝑡)`:
+  - y-intercept  
+    - (0,5)
+  - x-intercept(s) 
+    - (5,0)
+  - slope 
+    - -1
+  - Is `𝑗(𝑡)` parallel or perpendicular to `ℎ(𝑡)` (or neither)? 
+    - neither
+  - Is `𝑗(𝑡)` an increasing or decreasing function (or neither)? 
+    - decreasing
+  - Write a transformation description for `𝑗(𝑡)` from the identity toolkit function `𝑓(𝑥)=𝑥`.
+    -  Given the identity function, perform a vertical flip (over the t-axis) and shift up 5 units.
+
+![system of linear equations graph](./assets/system_of_linear_equations.png)
+
 ### [Solving Systems of Linears](https://openstax.org/books/precalculus-2e/pages/9-1-systems-of-linear-equations-two-variables)
 
 #### Introduction to Systems of Equations
